@@ -74,6 +74,10 @@ input {
   margin-top: 10px;
 }
 
+.my-btn:hover {
+  cursor: pointer
+}
+
 .input.boolean {
   margin-left: 18px;
   margin-top: 5px;
@@ -90,6 +94,10 @@ input {
   margin-right: 20px;
 }
 
+.gram-actions {
+  margin-left: auto;
+}
+
 .comments {
   padding: 20px;
 }
@@ -103,4 +111,12 @@ input {
   color: #125688;
   font-weight: bold;
   font-size: 18px;
+}
+
+.brand a {
+  color: inherit;
+}
+
+.brand a:hover {
+  color: #1f71f4;
 }
