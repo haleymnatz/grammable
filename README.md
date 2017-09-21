@@ -1,24 +1,30 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An Instagram clone built using Test-Driven Development and automated testing via Rspec. [Check it out here!](https://grammable-haley-mnatzaganian.herokuapp.com/)
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+* PostgreSQL
+* Rspec
+* factory_girl
+* Bootstrap
+* Devise
+* Simple Form
+* Figaro
+* Carrierwave
+* Fog
 
-* System dependencies
+## Features
 
-* Configuration
+* Adequate test coverage using Rspec
+* Image uploading via Amazon S3
 
-* Database creation
+## Usage
 
-* Database initialization
+View a descending feed of uploaded photos from all users.
 
-* How to run the test suite
+Upload images with descriptions. Add comments to your own and others' posts.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Versioning
 
-* Deployment instructions
-
-* ...
+* Rails 5.0.1
